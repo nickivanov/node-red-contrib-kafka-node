@@ -1,0 +1,58 @@
+{
+  "name": "node-red-contrib-kafka-node",
+  "version": "0.1.6",
+  "description": "Node-RED nodes of HighLevel Kafka Producer and Consumer",
+  "dependencies": {
+    "kafka-node": "0.2.24"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fwang7/node-red-contrib-kafka-node.git"
+  },
+  "license": "Apache",
+  "keywords": [
+    "node-red",
+    "kafka",
+    "kafka producer",
+    "kafka consumer",
+    "nodered",
+    "nodered kafka"
+  ],
+  "node-red": {
+    "nodes": {
+      "kafka": "kafka.js"
+    }
+  },
+  "author": {
+    "name": "Feng Wang",
+    "email": "fwang1@us.ibm.com"
+  },
+  "gitHead": "baedde3d69699969b66f47fd378f75ac029e2f98",
+  "bugs": {
+    "url": "https://github.com/fwang7/node-red-contrib-kafka-node/issues"
+  },
+  "homepage": "https://github.com/fwang7/node-red-contrib-kafka-node#readme",
+  "_id": "node-red-contrib-kafka-node@0.1.6",
+  "scripts": {},
+  "_shasum": "fd52aeffffcf596b686d9903aa3edf8fc5621dac",
+  "_from": "node-red-contrib-kafka-node@*",
+  "_npmVersion": "2.12.1",
+  "_nodeVersion": "0.10.36",
+  "_npmUser": {
+    "name": "fwang1",
+    "email": "fwang1@us.ibm.com"
+  },
+  "maintainers": [
+    {
+      "name": "fwang1",
+      "email": "fwang1@us.ibm.com"
+    }
+  ],
+  "dist": {
+    "shasum": "fd52aeffffcf596b686d9903aa3edf8fc5621dac",
+    "tarball": "https://registry.npmjs.org/node-red-contrib-kafka-node/-/node-red-contrib-kafka-node-0.1.6.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/node-red-contrib-kafka-node/-/node-red-contrib-kafka-node-0.1.6.tgz",
+  "readme": "ERROR: No README data found!"
+}
